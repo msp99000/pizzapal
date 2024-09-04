@@ -17,7 +17,7 @@ class PizzaPal extends StatelessWidget {
         home: Scaffold(
             body: Center(
                 child: SvgPicture.asset(
-          "assets/images/welcome1.svg",
+          "assets/images/welcome.svg",
         ))));
   }
 }
