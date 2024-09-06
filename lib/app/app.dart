@@ -1,8 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:pizzapal/app/welcome_svg.dart';
-import 'package:flutter_svg_provider/flutter_svg_provider.dart';
-import 'package:re_svg/re_svg.dart';
 
 class PizzaPal extends StatelessWidget {
   const PizzaPal({super.key});
